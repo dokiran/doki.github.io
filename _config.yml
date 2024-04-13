@@ -83,7 +83,7 @@ deploy:
     # github: git@github.com:dokiran/doki.github.io.git
     # github: https://dokiran.github.io/doki.github.io/
     coding: https://git.coding.net/hojun/hojun.git
-  branch: master
+  branch: main
 
 # backup
 backup:
